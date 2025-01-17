@@ -77,7 +77,6 @@ Welcome to my GitHub! I am a highly skilled **Full-Stack Developer** with a soli
 
 - 📧 Email: [moneeshsamanthapudi96@gmail.com](mailto:moneeshsamanthapudi96@gmail.com)
 - 📞 Phone: +1 8157915951
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moneesh-samanthapudi/)
 
 ---
 
