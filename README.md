@@ -40,14 +40,14 @@ Welcome to my GitHub! I am a highly skilled **Full-Stack Developer** with a soli
 
 ### **United Health Group** | Remote  
 **Role**: Full Stack Developer  
-**June 2022 - Present**
+**September 2022 - Present**
 - Built scalable applications using **Spring Boot**, **React.js**, and **AWS**.
 - Integrated **RESTful APIs**, **Apache Kafka**, and **Microservices** for efficient communication between services.
 - Deployed applications on **AWS EC2** and utilized **Kubernetes** for container orchestration.
 
 ### **Rivian** | Remote  
 **Role**: Full Stack Developer  
-**June 2021 - May 2022**
+**July 2021 - May 2022**
 - Developed applications using **Spring Boot**, **AngularJS**, and **React.js**.
 - Deployed **microservices** on **Pivotal Cloud Foundry** and **AWS EC2**.
 - Integrated real-time data handling with **Node.js** and **JMS** for asynchronous communication.
@@ -60,7 +60,7 @@ Welcome to my GitHub! I am a highly skilled **Full-Stack Developer** with a soli
 
 ### **eClerx** | Mumbai, India  
 **Role**: Java Developer  
-**June 2019 - May 2020**
+**March 2019 - June 2021**
 - Worked on **Java SE/EE** applications and developed solutions using **Spring MVC** and **Hibernate**.
 - Integrated **JMS** for asynchronous communication and developed **SOAP** and **RESTful web services**.
 
